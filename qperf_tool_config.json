@@ -1,0 +1,6 @@
+{
+"ip_address":"127.0.0.1", 
+"set_time":"5",
+"connection_type":"udp",
+"interval_between_commands":"5"
+}
